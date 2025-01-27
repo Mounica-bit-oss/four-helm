@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mouni:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-01-27T05:39:48.010569256Z"
+    description: A Helm chart for Kubernetes
+    digest: 9ea337371abe295a222f775aff60e892c1d4e62d846323464d2e9000723b9aa3
+    name: mouni
+    type: application
+    urls:
+    - mouni-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-27T05:39:48.00959687Z"
